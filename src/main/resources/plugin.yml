@@ -1,0 +1,4 @@
+name: LoginBounusPluginWithSQL
+version: 1.0.0
+main: aquarius0715.loginbounuspluginwithsql.LoginBounusPluginWithSQL
+api-version: 1.12.2
